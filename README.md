@@ -1,5 +1,7 @@
 🗓️ Aplikasi Generator Jadwal Mengajar Otomatis
 
+---
+
 Tanpa bentrok guru, ruang, dan kelas — 100% berbasis Google Sheets
 
 ✅ Login dengan Google (OAuth - GIS 2025)
@@ -10,9 +12,14 @@ Tanpa bentrok guru, ruang, dan kelas — 100% berbasis Google Sheets
 ✅ UI modern (React + Tailwind) & responsif (HP / laptop)
 ✅ Bisa impor data melalui template Excel
 
+---
+
+
 🚀 Demo Online
 
 🔗 [[https://smkyappiwns.github.io/jadwal-otomatis/)](https://smkyappiwns.github.io/jadwal-otomatis/))
+
+---
 
 📌 Fitur Utama
 Fitur	Keterangan
