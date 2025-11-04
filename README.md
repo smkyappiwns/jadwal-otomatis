@@ -32,6 +32,9 @@ Fitur	Keterangan
 📤 Export	Jadwal bisa diunduh sebagai Excel / PDF
 🧠 Tanpa Database	Simpel, cukup spreadsheet sebagai backend
 📱 Full Responsive	Bisa digunakan lewat HP guru / admin
+
+---
+
 🛠️ Teknologi
 Teknologi	Fungsi
 React + Vite	Frontend utama
